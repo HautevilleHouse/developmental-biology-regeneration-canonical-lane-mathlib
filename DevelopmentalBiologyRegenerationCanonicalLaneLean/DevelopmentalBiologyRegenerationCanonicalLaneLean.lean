@@ -1,0 +1,9 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace DevelopmentalBiologyRegenerationCanonicalLaneLean
+
+-- This file is the root of the DevelopmentalBiologyRegenerationCanonicalLaneLean Lean proof package.
+
+end DevelopmentalBiologyRegenerationCanonicalLaneLean
+end HautevilleHouse
